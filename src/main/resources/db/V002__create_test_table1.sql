@@ -1,0 +1,4 @@
+CREATE TABLE test1 (
+  id UUID PRIMARY KEY,
+  name VARCHAR(100) NOT NULL
+);
